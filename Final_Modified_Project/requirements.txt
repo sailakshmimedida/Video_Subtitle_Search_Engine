@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+sentence-transformers
+chromadb
+faiss-cpu
+pandas
+numpy
+scikit-learn
+streamlit
+soundfile
+huggingface_hub
